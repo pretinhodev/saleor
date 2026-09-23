@@ -73,7 +73,7 @@ Saleor is a rapidly-growing open source e-commerce platform that has served high
 - **Analytics**: Server-side Google Analytics to report e-commerce metrics without affecting privacy
 
 Saleor is free and always will be.
-Help us out… If you love free stuff and great software, give us a star! 🌟
+Help us out… If you love free stuff and great software, give us a star!
 
 ![Saleor Storefront - React-based PWA e-commerce storefront](https://user-images.githubusercontent.com/249912/71527146-5b6be280-28da-11ea-901d-eb76161a6bfb.png)
 ![Saleor Dashboard - Modern UI for managing your e-commerce](https://user-images.githubusercontent.com/249912/71523261-8a795880-28c8-11ea-98c0-6281ea37f412.png)
@@ -154,6 +154,6 @@ Disclaimer: Everything you see here is open and free to use as long as you compl
 
 Some situations do call for extra code; we can cover exotic use cases or build you a custom e-commerce appliance.
 
-#### Crafted with ❤️ by [Mirumee Software](http://mirumee.com)
+#### Crafted with by [Mirumee Software](http://mirumee.com)
 
 hello@mirumee.com
